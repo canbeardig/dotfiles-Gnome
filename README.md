@@ -1,5 +1,7 @@
 # Nord GNOME Theme
 
+<br/>
+
 <img src="screenshots/screenshot.png" align="right" width="400px">
 
 - Colour scheme: [Nord](https://github.com/arcticicestudio/nord)
