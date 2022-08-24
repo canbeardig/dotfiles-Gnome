@@ -2,8 +2,11 @@
 
 <br/>
 
-<img src="screenshots/screenshot.png" align="right" width="400px">
+<img src="screenshots/screenshot.png" width="400px">
 
+<br/>
+
+## Sources:
 - Colour scheme: [Nord](https://github.com/arcticicestudio/nord)
 - GTK and base shell theme: [Graphite Nord](https://github.com/vinceliuice/Graphite-gtk-theme)
 - Icons: [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) 
