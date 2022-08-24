@@ -2,7 +2,7 @@
 
 <br/>
 
-<img src="screenshots/screenshot.png" width="400px">
+<img src="screenshots/screenshot.png" width="500px">
 
 <br/>
 
