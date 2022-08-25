@@ -12,7 +12,7 @@
 - Icons: [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme), [Papirus Folders](https://github.com/PapirusDevelopmentTeam/papirus-folders)
 - Firefox: [MinimalistFox](https://github.com/canbeardig/MinimalistFox)
 - Spotify: [Spicetify](https://github.com/spicetify)
-- gedit: [gedit nord](https://github.com/arcticicestudio/nord-gedit)
+- gedit: [Nord gedit](https://github.com/arcticicestudio/nord-gedit)
 - [Wallpaper](https://wallhaven.cc/w/6kxmj6)
 - [Kitty](https://github.com/kovidgoyal/kitty)
 - [cava](https://github.com/karlstav/cava)
