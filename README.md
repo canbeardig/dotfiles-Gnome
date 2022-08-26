@@ -8,7 +8,7 @@
 
 ## Apps and Sources:
 - Colour scheme: [Nord](https://github.com/arcticicestudio/nord)
-- GTK and base shell theme: [Graphite Nord](https://github.com/vinceliuice/Graphite-gtk-theme)
+- GTK and base shell theme: [Graphite Nord Compact](https://github.com/vinceliuice/Graphite-gtk-theme)
 - Icons: [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme), [Papirus Folders](https://github.com/PapirusDevelopmentTeam/papirus-folders)
 - Firefox: [MinimalistFox](https://github.com/canbeardig/MinimalistFox)
 - Spotify: [Spicetify](https://github.com/spicetify)
