@@ -18,7 +18,6 @@
 - neofetch: [Neofetch Themes](https://github.com/chick2d/neofetch-themes/)
 - btop++: [btop nord](https://github.com/aristocratos/btop)
 - Fonts: [Fira](https://github.com/mozilla/Fira), [Iosevka, Iosevka Aile](https://github.com/be5invis/Iosevka)
-- [Wallpaper](https://wallhaven.cc/w/6kxmj6)
 - Extensions:
   - [Dash to Dock for COSMIC](https://extensions.gnome.org/extension/5004/dash-to-dock-for-cosmic/)
   - [Tiling Assistant](https://extensions.gnome.org/extension/3733/tiling-assistant/)
