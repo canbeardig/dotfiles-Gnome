@@ -19,7 +19,7 @@
 - btop++: [btop nord](https://github.com/aristocratos/btop)
 - Fonts: [Fira](https://github.com/mozilla/Fira), [Iosevka, Iosevka Aile](https://github.com/be5invis/Iosevka)
 - Extensions:
-  - [Dash to Dock for COSMIC](https://extensions.gnome.org/extension/5004/dash-to-dock-for-cosmic/)
+  - [Dash to Dock](https://extensions.gnome.org/extension/307/dash-to-dock/)
   - [Tiling Assistant](https://extensions.gnome.org/extension/3733/tiling-assistant/)
   - [User Themes](https://extensions.gnome.org/extension/19/user-themes/)
   - [Gnome 4x UI Improvements](https://extensions.gnome.org/extension/4158/gnome-40-ui-improvements/)
