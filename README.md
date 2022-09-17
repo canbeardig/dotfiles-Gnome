@@ -11,7 +11,6 @@
 - GTK and base shell theme: [Graphite Nord Compact](https://github.com/vinceliuice/Graphite-gtk-theme)
 - Icons: [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme), [Papirus Folders](https://github.com/PapirusDevelopmentTeam/papirus-folders)
 - Firefox theme: [MinimalistFox](https://github.com/canbeardig/MinimalistFox)
-- Firefox tabs: [nightTab](https://addons.mozilla.org/en-US/firefox/addon/nighttab/)
 - Spotify: [Spicetify](https://github.com/spicetify)
 - gedit: [Nord gedit](https://github.com/arcticicestudio/nord-gedit)
 - Terminal: [Kitty](https://github.com/kovidgoyal/kitty)
