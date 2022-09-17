@@ -2,7 +2,7 @@
 
 <br/>
 
-<img src="screenshots/screenshot.png" width="500px">
+<img src="screenshots/screenshot-dots.png" width="500px">
 
 <br/>
 
