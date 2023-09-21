@@ -1,5 +1,7 @@
 # Nordic GNOME Theme
 
+My personal workspace with custom gnome-shell. **Currently out of date.**
+
 <br/>
 
 <img src="screenshots/screenshot-dots.png" width="500px">
